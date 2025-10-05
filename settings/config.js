@@ -28,8 +28,8 @@ global.ovo = "0874928262829" //ISI NO OVO LU
 global.qris = "https://cdn.alands.xyz/files/683817b1963cd4572f75b5cc?&filename=1748506544899.jpeg" // ISI LINK TOURL QRIS
 global.gopay = "0874928262829"
 //============[ BOT SETTING]=============\\
-global.pengembang = "6285850213046"
-global.owner = ["6283849149928", "6283123405940", "6285850213046", "6283899858313"]
+global.pengembang = "6287760550924"
+global.owner = ["6287760550924", "6287760550924", "6285850213046", "6283899858313"]
 global.foother = "Janpiw"
 global.botname = "᙭IᗩO TᗩO ᗰᑌᒪTI ᗪEᐯIᑕE"
 global.packname = 'Zanspiw'
